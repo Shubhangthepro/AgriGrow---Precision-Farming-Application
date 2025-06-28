@@ -1,0 +1,247 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "sensors": "Sensors",
+    "crops": "Crops",
+    "diseaseDetection": "Disease Detection",
+    "analytics": "Analytics",
+    "weather": "Weather",
+    "alerts": "Alerts",
+    "farmMap": "Farm Map",
+    "marketplace": "Marketplace",
+    "settings": "Settings",
+    "subtitle": "Precision Farming"
+  },
+  "sidebar": {
+    "farmStatus": "Farm Status",
+    "activeSensors": "Active Sensors",
+    "cropHealth": "Crop Health"
+  },
+  "header": {
+    "goodMorning": "Good morning",
+    "goodAfternoon": "Good afternoon",
+    "goodEvening": "Good evening",
+    "farmer": "Farmer",
+    "statusMessage": "Your crops are looking healthy today",
+    "toggleLanguage": "Toggle Language",
+    "toggleVoice": "Toggle Voice Alerts",
+    "toggleTheme": "Toggle Theme",
+    "notifications": "Notifications",
+    "profile": "Profile"
+  },
+  "weather": {
+    "title": "Weather & Forecast",
+    "subtitle": "Current conditions and 7-day forecast for your farm",
+    "current": "Current Weather",
+    "humidity": "Humidity",
+    "windSpeed": "Wind Speed",
+    "precipitation": "Precipitation",
+    "visibility": "Visibility",
+    "alerts": "Weather Alerts",
+    "forecast": "7-Day Forecast",
+    "today": "Today",
+    "hourlyForecast": "24-Hour Forecast",
+    "recommendations": "Farm Recommendations",
+    "alert": {
+      "heavyRain": "Heavy Rain Expected",
+      "rainMessage": "Heavy rainfall expected in the next 6 hours. Secure equipment and protect crops.",
+      "highHumidity": "High Humidity Alert",
+      "humidityMessage": "High humidity levels may increase disease risk. Monitor crops closely."
+    },
+    "recommendation": {
+      "planting": "Optimal Planting Conditions",
+      "plantingMessage": "Weather conditions are favorable for planting new crops.",
+      "irrigation": "Irrigation Recommendation",
+      "irrigationMessage": "Reduce irrigation schedule due to expected rainfall.",
+      "fieldWork": "Field Work Window",
+      "fieldWorkMessage": "Good conditions for field operations today.",
+      "harvest": "Harvest Planning",
+      "harvestMessage": "Plan harvest activities for the end of the week."
+    }
+  },
+  "crops": {
+    "title": "Crop Management",
+    "subtitle": "Monitor and manage all your crops from one place",
+    "addCrop": "Add New Crop",
+    "searchPlaceholder": "Search crops...",
+    "stats": {
+      "totalArea": "Total Area",
+      "avgYield": "Avg. Yield",
+      "activeCrops": "Active Crops",
+      "healthyCrops": "Healthy Crops"
+    },
+    "filters": {
+      "allStages": "All Stages"
+    },
+    "stages": {
+      "seedling": "Seedling",
+      "vegetative": "Vegetative Growth",
+      "flowering": "Flowering",
+      "maturity": "Maturity"
+    },
+    "health": {
+      "excellent": "Excellent",
+      "good": "Goo",
+      "fair": "Fair",
+      "poor": "Poor"
+    },
+    "details": {
+      "planted": "Planted",
+      "harvest": "Expected Harvest",
+      "yield": "Predicted Yield",
+      "timeToHarvest": "Time to Harvest"
+    },
+    "actions": {
+      "viewDetails": "View Details",
+      "manageCrop": "Manage Crop"
+    },
+    "noCrops": {
+      "title": "No crops found",
+      "message": "Try adjusting your search or filter criteria."
+    }
+  },
+  "alerts": {
+    "title": "Alerts & Notifications",
+    "subtitle": "Stay informed about important farm events and conditions",
+    "summary": {
+      "total": "Total Alerts",
+      "unacknowledged": "Unacknowledged",
+      "critical": "Critical",
+      "high": "High Priority"
+    },
+    "filters": {
+      "title": "Filters",
+      "allSeverities": "All Severities",
+      "allTypes": "All Types",
+      "showAcknowledged": "Show Acknowledged"
+    },
+    "severity": {
+      "critical": "Critical",
+      "high": "High",
+      "medium": "Medium",
+      "low": "Low"
+    },
+    "types": {
+      "irrigation": "Irrigation",
+      "weather": "Weather",
+      "pest": "Pest Control",
+      "fertilizer": "Fertilizer",
+      "harvest": "Harvest"
+    },
+    "quickActions": {
+      "title": "Quick Actions",
+      "acknowledgeAll": "Acknowledge All",
+      "exportReport": "Export Report"
+    },
+    "noAlerts": {
+      "title": "All caught up!",
+      "message": "No alerts match your current filters."
+    }
+  },
+  "map": {
+    "title": "Farm Map",
+    "subtitle": "Interactive map view of your farm fields and sensors",
+    "layers": {
+      "satellite": "Satellite",
+      "terrain": "Terrain",
+      "hybrid": "Hybrid"
+    },
+    "interactive": {
+      "title": "Interactive Farm Map",
+      "description": "Click on field markers to view detailed information about each area."
+    },
+    "legend": {
+      "title": "Field Health",
+      "excellent": "Excellent",
+      "good": "Good",
+      "fair": "Fair",
+      "poor": "Poor"
+    },
+    "fields": {
+      "title": "Farm Fields",
+      "area": "Area",
+      "sensors": "Sensors"
+    },
+    "fieldDetails": {
+      "title": "Field Details",
+      "soilMoisture": "Soil Moisture",
+      "activeSensors": "Active Sensors",
+      "viewDetails": "View Full Details"
+    },
+    "stats": {
+      "title": "Quick Stats",
+      "totalArea": "Total Area",
+      "totalSensors": "Total Sensors",
+      "activeFields": "Active Fields"
+    }
+  },
+  "marketplace": {
+    "title": "AgriMarketplace",
+    "subtitle": "Buy and sell agricultural products and equipment",
+    "viewCart": "View Cart",
+    "searchPlaceholder": "Search products...",
+    "categories": {
+      "all": "All Categories",
+      "seeds": "Seeds",
+      "fertilizers": "Fertilizers",
+      "pesticides": "Pesticides",
+      "equipment": "Equipment",
+      "tools": "Tools"
+    },
+    "badges": {
+      "organic": "Organic"
+    },
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "addToCart": "Add to Cart",
+    "added": "Added",
+    "viewDetails": "View Details",
+    "noProducts": {
+      "title": "No products found",
+      "message": "Try adjusting your search or filter criteria."
+    },
+    "trust": {
+      "title": "Why Choose AgriMarketplace?",
+      "secure": "Secure Payments",
+      "secureDesc": "100% secure payment processing with buyer protection",
+      "delivery": "Fast Delivery",
+      "deliveryDesc": "Quick delivery to your farm with real-time tracking",
+      "quality": "Quality Assured",
+      "qualityDesc": "All products verified for quality and authenticity"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Customize your AgriGrow experience",
+    "save": "Save Changes",
+    "profile": {
+      "title": "Profile Settings",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "farmName": "Farm Name",
+      "location": "Location"
+    },
+    "notifications": {
+      "title": "Notification Preferences",
+      "email": "Email Notifications",
+      "emailDesc": "Receive alerts and updates via email",
+      "sms": "SMS Notifications",
+      "smsDesc": "Get critical alerts via text message",
+      "voice": "Voice Alerts",
+      "voiceDesc": "Enable spoken notifications for accessibility"
+    },
+    "system": {
+      "title": "System Settings",
+      "language": "Language",
+      "languageDesc": "Choose your preferred language",
+      "autoSync": "Auto Sync",
+      "autoSyncDesc": "Automatically sync data when connected",
+      "offlineMode": "Offline Mode",
+      "offlineModeDesc": "Enable offline functionality for remote areas"
+    },
+    "privacy": {
+      "title": "Privacy & Security"
+    }
+  }
+}
